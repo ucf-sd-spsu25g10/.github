@@ -33,4 +33,4 @@ If you are on the UCF Intranet, [visit our project website](https://maverick.eec
 
 - Arthur Weeks, PhD - Associate Professor in the Department of Electrical and Computer Engineering
 
-NOTE: This project or any of the contents herein are not endorsed by the University of Central Florida and all Intellectual Property rights are retained by the student members listed above.
+NOTE: This project nor any of the contents herein are not endorsed by the University of Central Florida and all Intellectual Property rights are retained by the student members listed above.
