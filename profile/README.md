@@ -7,7 +7,7 @@ This is an interdiciplinary project between the Department of Electrical and Com
 
 **Group Details:** Electrical and Computer Engineering Group 10, Spring 2025/Summer 2025
 
-If you are on the UCF Intranet, [visit our project website](https://maverick.eecs.ucf.edu/seniordesign/sp2025su2025/g10/).
+If you are on the UCF Intranet, [visit our project website](https://maverick.eecs.ucf.edu/seniordesign/sp2025su2025/g10/) to see our papers and other resources.
 
 ### Group Members
 *These students are candidates for the degrees following their names, expected August 2025.*
@@ -32,3 +32,5 @@ If you are on the UCF Intranet, [visit our project website](https://maverick.eec
 ## Special Thanks
 
 - Arthur Weeks, PhD - Associate Professor in the Department of Electrical and Computer Engineering
+
+NOTE: This project or any of the contents herein are not endorsed by the University of Central Florida and all Intellectual Property rights are retained by the student members listed above.
