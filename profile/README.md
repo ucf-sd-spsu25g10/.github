@@ -22,7 +22,7 @@ If you are on the UCF Intranet, [visit our project website](https://maverick.eec
 
 - Mike Borowczak, PhD - Associate Professor in the Department of Electrical and Computer Engineering
 - Stephen Eikenberry, PhD - Professor in CREOL, The College of Optics and Phononics
-- Justin Phelps, PhD - Post Doctoral Scholar in the Department of Electrical and Computer Engineering
+- Justin Phelps, PhD - Adjunct Professor and Post Doctoral Scholar in the Department of Electrical and Computer Engineering
 
 ## Advisors
 
